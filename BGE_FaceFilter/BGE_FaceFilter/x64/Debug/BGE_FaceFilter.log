@@ -1,5 +1,6 @@
 ﻿  firstsample.cpp
-c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(28): error C3861: 'detectFace': identifier not found
-c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\uttkarsh\documents\github\bge_finalproject_facefilter\bge_facefilter\bge_facefilter\firstsample.cpp(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BGE_FaceFilter.vcxproj -> C:\Users\Uttkarsh\Documents\GitHub\BGE_FinalProject_FaceFilter\BGE_FaceFilter\x64\Debug\BGE_FaceFilter.exe
+  BGE_FaceFilter.vcxproj -> C:\Users\Uttkarsh\Documents\GitHub\BGE_FinalProject_FaceFilter\BGE_FaceFilter\x64\Debug\BGE_FaceFilter.pdb (Full PDB)
