@@ -29,4 +29,4 @@ uncommit faceMasking to see results of face masking, commit rest:
 
 By Uttkarsh Narayan, August Orlow, Shubham Gupta and Alexandre Dias
 
-GitHub:https://github.com/uttkarsh21/BGE_FinalProject_FaceFilter
+GitHub:https://github.com/uttkarsh21/BGE_FinalProject_FaceFilter/tree/master/BGE_FaceFilter/BGE_FaceFilter
