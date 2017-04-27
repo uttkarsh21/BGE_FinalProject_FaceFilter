@@ -1,4 +1,5 @@
 # BGE_FinalProject_FaceFilter
+look in /BGE_FaceFilter/BGE_FaceFilter directory inside the github directory
 Final Project for Building Game Engines
 
 This is a test implementation program for an augmented reality social game that we envisioned; this implementation focuses
@@ -32,4 +33,4 @@ uncommit faceMasking to see results of face masking, commit rest:
 
 By Uttkarsh Narayan, August Orlow, Shubham Gupta and Alexandre Dias
 
-GitHub:https://github.com/uttkarsh21/BGE_FinalProject_FaceFilter
+GitHub:https://github.com/uttkarsh21/BGE_FinalProject_FaceFilter/tree/master/BGE_FaceFilter/BGE_FaceFilter
