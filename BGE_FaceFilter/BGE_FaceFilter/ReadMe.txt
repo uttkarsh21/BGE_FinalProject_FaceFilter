@@ -26,3 +26,7 @@ uncommit faceMasking to see results of face masking, commit rest:
 *press "x" to shift between facedetect view and facemask view
 *press enter in facemask view to filter through different mask sprites
 *press escape to exit
+
+By Uttkarsh Narayan, August Orlow, Shubham Gupta and Alexandre Dias
+
+GitHub:https://github.com/uttkarsh21/BGE_FinalProject_FaceFilter
