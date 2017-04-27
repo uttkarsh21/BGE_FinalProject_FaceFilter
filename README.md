@@ -1,5 +1,6 @@
 # BGE_FinalProject_FaceFilter
 look in /BGE_FaceFilter/BGE_FaceFilter directory inside the github directory
+
 Final Project for Building Game Engines
 
 This is a test implementation program for an augmented reality social game that we envisioned; this implementation focuses
